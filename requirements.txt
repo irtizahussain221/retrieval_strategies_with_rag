@@ -1,0 +1,9 @@
+-i https://pypi.org/simple
+pinecone==5.3.1;
+pandas==2.2.0;
+nltk==3.9.1;
+python-dotenv==1.0.1;
+torch==2.4.1;
+transformers==4.45.1;
+openai==1.50.2;
+datasets==3.0.1;
